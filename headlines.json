@@ -1,5 +1,28 @@
 [
   {
+    "id": 6235664,
+    "slug": "250-reizigers-geevacueerd-uit-intercity-direct-bij-rotterdam",
+    "type": "video",
+    "title": "250 reizigers geëvacueerd uit Intercity Direct bij Rotterdam",
+    "subtitle": "Video",
+    "published_at": "2022-11-12T08:49:02+01:00",
+    "updated_at": "2022-11-12T08:49:03+01:00",
+    "media_id": "e07x3haaanex",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6235664/250-reizigers-geevacueerd-uit-intercity-direct-bij-rotterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235651,
     "slug": "brugts-speelt-als-linksachter-bij-oranjevrouwen-dit-had-ik-niet-verwacht",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Reisinformatie van NS weer beschikbaar na storing van 2,5 uur",
     "subtitle": null,
     "published_at": "2022-11-12T07:32:24+01:00",
-    "updated_at": "2022-11-12T08:34:26+01:00",
+    "updated_at": "2022-11-12T08:41:40+01:00",
     "media_id": "9yux1g1agngs",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6235647/jubelende-haas-teambaas-steiner-pole-magnussen-was-geen-geluk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235645,
-    "slug": "heracles-almelo-en-pec-zwolle-halen-uit-kuijt-wint-weer-niet-met-ado-den-haag",
-    "type": "article",
-    "title": "Heracles Almelo en PEC Zwolle halen uit, Kuijt wint weer niet met ADO Den Haag",
-    "subtitle": null,
-    "published_at": "2022-11-11T22:00:03+01:00",
-    "updated_at": "2022-11-11T22:28:55+01:00",
-    "media_id": "j2jxrgkaoeyg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6235645/heracles-almelo-en-pec-zwolle-halen-uit-kuijt-wint-weer-niet-met-ado-den-haag.html",
     "open_new_window": false,
     "partner": null
   }

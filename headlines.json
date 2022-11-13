@@ -1,5 +1,28 @@
 [
   {
+    "id": 6235852,
+    "slug": "musk-zegt-volgende-week-verkoop-van-abonnementsdienst-twitter-te-hervatten-na-chaos",
+    "type": "article",
+    "title": "Musk zegt volgende week verkoop van abonnementsdienst Twitter te hervatten na chaos",
+    "subtitle": null,
+    "published_at": "2022-11-13T10:37:11+01:00",
+    "updated_at": "2022-11-13T10:37:24+01:00",
+    "media_id": "c8cxsujasmmi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6235852/musk-zegt-volgende-week-verkoop-van-abonnementsdienst-twitter-te-hervatten-na-chaos.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235850,
     "slug": "biden-blij-met-verkiezingsuitslag-senaat-geen-verrassing",
     "type": "video",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6235846,
-    "slug": "gewonde-door-brand-in-amsterdams-appartementencomplex-voor-jongeren",
+    "slug": "gewonde-bij-brand-in-amsterdams-appartementencomplex-voor-jongeren",
     "type": "article",
-    "title": "Gewonde door brand in Amsterdams appartementencomplex voor jongeren",
+    "title": "Gewonde bij brand in Amsterdams appartementencomplex voor jongeren",
     "subtitle": null,
     "published_at": "2022-11-13T10:14:21+01:00",
-    "updated_at": "2022-11-13T10:14:22+01:00",
+    "updated_at": "2022-11-13T10:28:29+01:00",
     "media_id": "0hixfvnas8ut",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6235846/gewonde-door-brand-in-amsterdams-appartementencomplex-voor-jongeren.html",
+    "url": "/binnenland/6235846/gewonde-bij-brand-in-amsterdams-appartementencomplex-voor-jongeren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +420,7 @@
     "title": "Democraten behouden meerderheid in Senaat VS, uitslag Huis nog niet bekend",
     "subtitle": null,
     "published_at": "2022-11-13T04:21:42+01:00",
-    "updated_at": "2022-11-13T10:22:31+01:00",
+    "updated_at": "2022-11-13T10:36:38+01:00",
     "media_id": "xnaxhvca8tw0",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6235815/twee-vintage-vliegtuigen-gecrasht-tijdens-amerikaanse-vliegshow.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235814,
-    "slug": "zeker-1-miljard-dollar-aan-geld-van-klanten-verdwenen-van-cryptobeurs-ftx",
-    "type": "article",
-    "title": "Zeker 1 miljard dollar aan geld van klanten verdwenen van cryptobeurs FTX",
-    "subtitle": null,
-    "published_at": "2022-11-13T02:50:59+01:00",
-    "updated_at": "2022-11-13T08:53:35+01:00",
-    "media_id": "g8ex5hlao454",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771719,
-      "slug": "geldzaken",
-      "type": "default",
-      "name": "Geld",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/geldzaken/6235814/zeker-1-miljard-dollar-aan-geld-van-klanten-verdwenen-van-cryptobeurs-ftx.html",
     "open_new_window": false,
     "partner": null
   }

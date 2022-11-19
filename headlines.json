@@ -1,12 +1,58 @@
 [
   {
+    "id": 6237194,
+    "slug": "mondiale-nummer-een-koolhof-grijpt-naast-finaleplek-op-atp-finals",
+    "type": "article",
+    "title": "Mondiale nummer één Koolhof grijpt naast finaleplek op ATP Finals",
+    "subtitle": null,
+    "published_at": "2022-11-19T13:50:20+01:00",
+    "updated_at": "2022-11-19T14:08:19+01:00",
+    "media_id": "pflxzgaa6ag8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6237194/mondiale-nummer-een-koolhof-grijpt-naast-finaleplek-op-atp-finals.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237193,
+    "slug": "bondscoach-qatar-wuift-omkopingsgerucht-weg-niemand-brengt-ons-van-de-wijs",
+    "type": "article",
+    "title": "Bondscoach Qatar wuift omkopingsgerucht weg: 'Niemand brengt ons van de wijs'",
+    "subtitle": null,
+    "published_at": "2022-11-19T13:45:35+01:00",
+    "updated_at": "2022-11-19T14:03:41+01:00",
+    "media_id": "ej5xcikaygdw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6237193/bondscoach-qatar-wuift-omkopingsgerucht-weg-niemand-brengt-ons-van-de-wijs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237190,
     "slug": "vettel-maakte-indruk-op-oud-teambazen-hij-kwam-binnen-met-een-raar-kapsel",
     "type": "article",
     "title": "Vettel maakte indruk op oud-teambazen: 'Hij kwam binnen met een raar kapsel'",
     "subtitle": "NU+",
     "published_at": "2022-11-19T13:41:12+01:00",
-    "updated_at": "2022-11-19T13:41:13+01:00",
+    "updated_at": "2022-11-19T13:58:09+01:00",
     "media_id": "6t2xgfna7iwn",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Staatssecretaris wil actieplan van NPO na berichten over grensoverschrijdend gedrag",
     "subtitle": null,
     "published_at": "2022-11-19T13:28:38+01:00",
-    "updated_at": "2022-11-19T13:36:38+01:00",
+    "updated_at": "2022-11-19T13:47:23+01:00",
     "media_id": "g15x8ipafzoc",
     "duration": null,
     "canonical_section": {
@@ -328,7 +374,7 @@
     "title": "Top 2000 Quiz-opnames gaan niet door na artikel over gedrag Van Nieuwkerk",
     "subtitle": null,
     "published_at": "2022-11-19T11:12:24+01:00",
-    "updated_at": "2022-11-19T12:08:43+01:00",
+    "updated_at": "2022-11-19T13:48:42+01:00",
     "media_id": "5zjxx1ya2tut",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6237158/twee-gewonden-bij-aanrijding-tussen-marechaussee-en-ambulance.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237153,
-    "slug": "belgie-neemt-zo-veel-cocaine-in-beslag-dat-verbrandingsovens-het-niet-aankunnen",
-    "type": "article",
-    "title": "België neemt zo veel cocaïne in beslag dat verbrandingsovens het niet aankunnen",
-    "subtitle": null,
-    "published_at": "2022-11-19T09:57:37+01:00",
-    "updated_at": "2022-11-19T10:02:54+01:00",
-    "media_id": "tllxjcwar4i2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6237153/belgie-neemt-zo-veel-cocaine-in-beslag-dat-verbrandingsovens-het-niet-aankunnen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237152,
-    "slug": "handbalsters-eindigen-als-zesde-op-ek-had-hier-aan-het-begin-voor-getekend",
-    "type": "article",
-    "title": "Handbalsters eindigen als zesde op EK: 'Had hier aan het begin voor getekend'",
-    "subtitle": null,
-    "published_at": "2022-11-19T09:47:50+01:00",
-    "updated_at": "2022-11-19T09:53:23+01:00",
-    "media_id": "jy1xzpbao6c1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6237152/handbalsters-eindigen-als-zesde-op-ek-had-hier-aan-het-begin-voor-getekend.html",
     "open_new_window": false,
     "partner": null
   }

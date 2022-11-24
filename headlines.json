@@ -1,5 +1,28 @@
 [
   {
+    "id": 6238290,
+    "slug": "haller-doorstaat-met-succes-nieuwe-operatie-vanwege-teelbalkanker",
+    "type": "article",
+    "title": "Haller doorstaat met succes nieuwe operatie vanwege teelbalkanker",
+    "subtitle": null,
+    "published_at": "2022-11-24T21:46:58+01:00",
+    "updated_at": "2022-11-24T21:46:59+01:00",
+    "media_id": "n83xeqtae0on",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6238290/haller-doorstaat-met-succes-nieuwe-operatie-vanwege-teelbalkanker.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6238287,
     "slug": "ronaldo-trots-op-wereldrecord-met-goal-op-vijfde-wk-een-heel-mooi-moment",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6238282,
-    "slug": "oekraiens-stroomnetwerk-lijkt-overal-hersteld-drie-kerncentrales-weer-aangesloten",
+    "slug": "oekraiens-stroomnetwerk-lijkt-overal-hersteld-na-russische-aanvallen",
     "type": "article",
-    "title": "Oekraïens stroomnetwerk lijkt overal hersteld, drie kerncentrales weer aangesloten",
+    "title": "Oekraïens stroomnetwerk lijkt overal hersteld na Russische aanvallen",
     "subtitle": "Overzicht",
     "published_at": "2022-11-24T20:58:28+01:00",
-    "updated_at": "2022-11-24T21:24:47+01:00",
+    "updated_at": "2022-11-24T21:51:00+01:00",
     "media_id": "ha0xuc9aixx7",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6238282/oekraiens-stroomnetwerk-lijkt-overal-hersteld-drie-kerncentrales-weer-aangesloten.html",
+    "url": "/spanningen-oekraine/6238282/oekraiens-stroomnetwerk-lijkt-overal-hersteld-na-russische-aanvallen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6238240/opvang-van-asielzoekers-in-deels-verbrand-gebouw-in-someren-kan-doorgaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238242,
-    "slug": "ecuador-gelooft-in-resultaat-tegen-oranje-we-gaan-vechten-tot-het-eind",
-    "type": "article",
-    "title": "Ecuador gelooft in resultaat tegen Oranje: 'We gaan vechten tot het eind'",
-    "subtitle": null,
-    "published_at": "2022-11-24T17:32:13+01:00",
-    "updated_at": "2022-11-24T17:33:08+01:00",
-    "media_id": "akwx03bajem3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6238242/ecuador-gelooft-in-resultaat-tegen-oranje-we-gaan-vechten-tot-het-eind.html",
     "open_new_window": false,
     "partner": null
   }

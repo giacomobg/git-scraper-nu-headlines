@@ -1,5 +1,51 @@
 [
   {
+    "id": 6241735,
+    "slug": "remco-evenepoel-veilt-wereldkampioenschapstrui-voor-herstel-amy-pieters",
+    "type": "article",
+    "title": "Remco Evenepoel veilt wereldkampioenschapstrui voor herstel Amy Pieters",
+    "subtitle": null,
+    "published_at": "2022-12-12T20:50:49+01:00",
+    "updated_at": "2022-12-12T20:50:52+01:00",
+    "media_id": "wegxaaeaoyr4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6241735/remco-evenepoel-veilt-wereldkampioenschapstrui-voor-herstel-amy-pieters.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241740,
+    "slug": "astana-zet-superman-lopez-op-straat-vanwege-banden-met-dopingdokter",
+    "type": "article",
+    "title": "Astana zet 'Superman' López op straat vanwege banden met dopingdokter",
+    "subtitle": null,
+    "published_at": "2022-12-12T20:34:01+01:00",
+    "updated_at": "2022-12-12T20:34:02+01:00",
+    "media_id": "euqxjvqa1vdr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6241740/astana-zet-superman-lopez-op-straat-vanwege-banden-met-dopingdokter.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241734,
     "slug": "utrechtse-studentenvereniging-in-opspraak-om-tekst-over-homos-en-stomabeffers",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Mexicaanse arbiter fluit halve finale Frankrijk-Marokko, Makkelie moet afwachten",
     "subtitle": null,
     "published_at": "2022-12-12T19:46:55+01:00",
-    "updated_at": "2022-12-12T20:16:06+01:00",
+    "updated_at": "2022-12-12T20:37:28+01:00",
     "media_id": "u85x6p0ai5we",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Von der Leyen wil ethische commissie wegens corruptiezaak Europees Parlement",
     "subtitle": null,
     "published_at": "2022-12-12T19:33:48+01:00",
-    "updated_at": "2022-12-12T20:04:46+01:00",
+    "updated_at": "2022-12-12T20:51:49+01:00",
     "media_id": "3ksxq02ayqmz",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Energiebedrijf Oxxio compenseert tienduizenden klanten na fout",
     "subtitle": null,
     "published_at": "2022-12-12T19:06:54+01:00",
-    "updated_at": "2022-12-12T19:41:23+01:00",
+    "updated_at": "2022-12-12T20:43:45+01:00",
     "media_id": "equxl8cahskv",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/film/6241706/golden-globe-nominaties-bekend-the-banshees-of-inisherin-is-grote-kanshebber.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241704,
-    "slug": "garnalenvissers-passen-netten-aan-in-hoop-vermist-kind-bij-terschelling-te-vinden",
-    "type": "article",
-    "title": "Garnalenvissers passen netten aan in hoop vermist kind bij Terschelling te vinden",
-    "subtitle": null,
-    "published_at": "2022-12-12T16:49:33+01:00",
-    "updated_at": "2022-12-12T17:21:43+01:00",
-    "media_id": "z1ixo5nak8g9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6241704/garnalenvissers-passen-netten-aan-in-hoop-vermist-kind-bij-terschelling-te-vinden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241635,
-    "slug": "steeds-meer-dronken-bestuurders-maar-het-is-zoeken-naar-de-oplossing",
-    "type": "article",
-    "title": "Steeds meer dronken bestuurders, maar het is zoeken naar de oplossing",
-    "subtitle": null,
-    "published_at": "2022-12-12T16:48:29+01:00",
-    "updated_at": "2022-12-12T16:48:30+01:00",
-    "media_id": "tffxayragac3",
-    "duration": null,
-    "canonical_section": {
-      "id": 881569,
-      "slug": "auto",
-      "type": "default",
-      "name": "Onderweg",
-      "style": "nuzakelijk",
-      "media_id": "z66x61xaq79c",
-      "partner": null
-    },
-    "url": "/auto/6241635/steeds-meer-dronken-bestuurders-maar-het-is-zoeken-naar-de-oplossing.html",
     "open_new_window": false,
     "partner": null
   }

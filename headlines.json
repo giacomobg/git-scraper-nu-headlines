@@ -1,12 +1,81 @@
 [
   {
+    "id": 6241600,
+    "slug": "derde-editie-scrooge-live-is-bekeken-door-ruim-18-miljoen-mensen",
+    "type": "article",
+    "title": "Derde editie Scrooge Live is bekeken door ruim 1,8 miljoen mensen",
+    "subtitle": null,
+    "published_at": "2022-12-12T08:51:32+01:00",
+    "updated_at": "2022-12-12T08:51:33+01:00",
+    "media_id": "srdxxfka630c",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6241600/derde-editie-scrooge-live-is-bekeken-door-ruim-18-miljoen-mensen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241598,
+    "slug": "veel-werkgevers-compenseren-personeel-voor-gestegen-kosten",
+    "type": "article",
+    "title": "Veel werkgevers compenseren personeel voor gestegen kosten",
+    "subtitle": null,
+    "published_at": "2022-12-12T08:45:49+01:00",
+    "updated_at": "2022-12-12T08:45:51+01:00",
+    "media_id": "d2fx1cvadss6",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6241598/veel-werkgevers-compenseren-personeel-voor-gestegen-kosten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241593,
+    "slug": "journalist-ron-fresen-en-actrice-anniek-pheifer-in-nieuwe-reeks-slimste-mens",
+    "type": "article",
+    "title": "Journalist Ron Fresen en actrice Anniek Pheifer in nieuwe reeks Slimste mens",
+    "subtitle": null,
+    "published_at": "2022-12-12T08:32:42+01:00",
+    "updated_at": "2022-12-12T08:32:43+01:00",
+    "media_id": "x3rxpmsamz98",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6241593/journalist-ron-fresen-en-actrice-anniek-pheifer-in-nieuwe-reeks-slimste-mens.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241595,
     "slug": "politie-doet-onderzoek-na-dodelijke-schietpartij-in-rome",
     "type": "video",
     "title": "Politie doet onderzoek na dodelijke schietpartij in Rome",
     "subtitle": "Video",
     "published_at": "2022-12-12T08:31:24+01:00",
-    "updated_at": "2022-12-12T08:31:25+01:00",
+    "updated_at": "2022-12-12T08:34:43+01:00",
     "media_id": "7yqxkzwa50e1",
     "duration": "0:35",
     "canonical_section": {
@@ -29,7 +98,7 @@
     "title": "China stopt met corona-app die bewegingen van mensen volgde",
     "subtitle": null,
     "published_at": "2022-12-12T08:31:16+01:00",
-    "updated_at": "2022-12-12T08:31:17+01:00",
+    "updated_at": "2022-12-12T08:41:57+01:00",
     "media_id": "qgzxlcnanikj",
     "duration": null,
     "canonical_section": {
@@ -98,7 +167,7 @@
     "title": "Ericsson en Apple beëindigen ruzie over patenten met licentieovereenkomst",
     "subtitle": null,
     "published_at": "2022-12-12T07:36:15+01:00",
-    "updated_at": "2022-12-12T07:43:29+01:00",
+    "updated_at": "2022-12-12T08:36:40+01:00",
     "media_id": "ty0xcyzacpb7",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6241581/doden-en-gewonden-bij-demonstraties-na-couppoging-peru.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241580,
-    "slug": "londense-luchthavens-annuleren-vluchten-wegens-hevige-sneeuwval",
-    "type": "article",
-    "title": "Londense luchthavens annuleren vluchten wegens hevige sneeuwval",
-    "subtitle": null,
-    "published_at": "2022-12-12T02:07:38+01:00",
-    "updated_at": "2022-12-12T06:20:48+01:00",
-    "media_id": "wk2xcpda5371",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6241580/londense-luchthavens-annuleren-vluchten-wegens-hevige-sneeuwval.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241579,
-    "slug": "hoofdkwartier-wagner-group-in-oost-oekraiense-stad-kadiivka-aangevallen",
-    "type": "article",
-    "title": "Hoofdkwartier Wagner Group in Oost-Oekraïense stad Kadiivka aangevallen",
-    "subtitle": null,
-    "published_at": "2022-12-12T01:54:34+01:00",
-    "updated_at": "2022-12-12T06:39:45+01:00",
-    "media_id": "y6ixu78aecaw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6241579/hoofdkwartier-wagner-group-in-oost-oekraiense-stad-kadiivka-aangevallen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241578,
-    "slug": "koningspaar-charles-en-camilla-verstuurt-eerste-officiele-kerstkaart",
-    "type": "article",
-    "title": "Koningspaar Charles en Camilla verstuurt eerste officiële kerstkaart",
-    "subtitle": null,
-    "published_at": "2022-12-12T00:19:05+01:00",
-    "updated_at": "2022-12-12T06:04:08+01:00",
-    "media_id": "hlnxls4aly3s",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778775,
-      "slug": "koningshuis",
-      "type": "default",
-      "name": "Koningshuis",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/koningshuis/6241578/koningspaar-charles-en-camilla-verstuurt-eerste-officiele-kerstkaart.html",
     "open_new_window": false,
     "partner": null
   }

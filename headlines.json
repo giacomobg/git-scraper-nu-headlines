@@ -1,12 +1,58 @@
 [
   {
+    "id": 6242561,
+    "slug": "gasupdate-verbruik-voor-het-eerst-hoger-dan-voorgaande-jaren",
+    "type": "article",
+    "title": "Gasupdate: Verbruik voor het eerst hoger dan voorgaande jaren",
+    "subtitle": null,
+    "published_at": "2022-12-16T12:36:25+01:00",
+    "updated_at": "2022-12-16T12:36:26+01:00",
+    "media_id": "b80xg0waiygt",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6242561/gasupdate-verbruik-voor-het-eerst-hoger-dan-voorgaande-jaren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6242567,
+    "slug": "marokko-organiseert-begin-volgend-jaar-wk-voor-clubs-32-deelnemers-in-2025",
+    "type": "article",
+    "title": "Marokko organiseert begin volgend jaar WK voor clubs, 32 deelnemers in 2025",
+    "subtitle": null,
+    "published_at": "2022-12-16T12:33:35+01:00",
+    "updated_at": "2022-12-16T12:46:15+01:00",
+    "media_id": "y38x2ifasp30",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6242567/marokko-organiseert-begin-volgend-jaar-wk-voor-clubs-32-deelnemers-in-2025.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6242548,
     "slug": "dit-vinden-jullie-van-de-pensioenwet-minder-vertrouwen-in-het-pensioen",
     "type": "article",
     "title": "Dit vinden jullie van de pensioenwet: 'Minder vertrouwen in het pensioen'",
     "subtitle": null,
     "published_at": "2022-12-16T12:32:25+01:00",
-    "updated_at": "2022-12-16T12:32:26+01:00",
+    "updated_at": "2022-12-16T12:35:51+01:00",
     "media_id": "b4rxvcma01g7",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Infantino spreekt van beste WK ooit: 'Het is een ongelooflijk succes geworden'",
     "subtitle": null,
     "published_at": "2022-12-16T12:23:38+01:00",
-    "updated_at": "2022-12-16T12:23:39+01:00",
+    "updated_at": "2022-12-16T12:51:00+01:00",
     "media_id": "2tjxzpzajkce",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "FIFA gaat bekritiseerd WK-format met zestien poules van drie teams heroverwegen",
     "subtitle": null,
     "published_at": "2022-12-16T12:10:50+01:00",
-    "updated_at": "2022-12-16T12:27:03+01:00",
+    "updated_at": "2022-12-16T12:40:53+01:00",
     "media_id": "svoxec5a2chu",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Vuilniswagens hebben last van gladheid, container wordt niet of later geleegd",
     "subtitle": null,
     "published_at": "2022-12-16T12:03:57+01:00",
-    "updated_at": "2022-12-16T12:15:06+01:00",
+    "updated_at": "2022-12-16T12:40:44+01:00",
     "media_id": "f0exfodahhek",
     "duration": null,
     "canonical_section": {
@@ -208,12 +254,12 @@
   },
   {
     "id": 6242543,
-    "slug": "wijk-in-zevenbergen-afgesloten-vanwege-vermoedens-van-asbest-na-brand",
+    "slug": "wijk-in-zevenbergen-afgesloten-en-schoongemaakt-vanwege-asbest-na-brand",
     "type": "article",
-    "title": "Wijk in Zevenbergen afgesloten vanwege vermoedens van asbest na brand",
+    "title": "Wijk in Zevenbergen afgesloten en schoongemaakt vanwege asbest na brand",
     "subtitle": null,
     "published_at": "2022-12-16T11:25:41+01:00",
-    "updated_at": "2022-12-16T11:25:42+01:00",
+    "updated_at": "2022-12-16T12:49:35+01:00",
     "media_id": "d9nxyrua4rhf",
     "duration": null,
     "canonical_section": {
@@ -225,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6242543/wijk-in-zevenbergen-afgesloten-vanwege-vermoedens-van-asbest-na-brand.html",
+    "url": "/binnenland/6242543/wijk-in-zevenbergen-afgesloten-en-schoongemaakt-vanwege-asbest-na-brand.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +282,7 @@
     "title": "5 mei wordt jaarlijkse feestdag in nieuwe cao de Volksbank",
     "subtitle": null,
     "published_at": "2022-12-16T11:01:14+01:00",
-    "updated_at": "2022-12-16T12:27:45+01:00",
+    "updated_at": "2022-12-16T12:39:47+01:00",
     "media_id": "py4xq5ja0t35",
     "duration": null,
     "canonical_section": {
@@ -328,7 +374,7 @@
     "title": "Laatst bekende oud-NSB'er Jacob Luitjens op 103-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2022-12-16T10:45:31+01:00",
-    "updated_at": "2022-12-16T11:18:32+01:00",
+    "updated_at": "2022-12-16T12:44:38+01:00",
     "media_id": "39ax1g9a9i5e",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6242503/jane-fonda-mag-stoppen-met-chemotherapie-beste-verjaardagscadeau-ooit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242498,
-    "slug": "strooiwagen-en-ambulance-in-de-problemen-door-gladheid-in-den-haag",
-    "type": "video",
-    "title": "Strooiwagen en ambulance in de problemen door gladheid in Den Haag",
-    "subtitle": "Video",
-    "published_at": "2022-12-16T09:52:57+01:00",
-    "updated_at": "2022-12-16T09:52:58+01:00",
-    "media_id": "8ygx2dnan68o",
-    "duration": "0:42",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6242498/strooiwagen-en-ambulance-in-de-problemen-door-gladheid-in-den-haag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242491,
-    "slug": "raketaanvallen-op-verschillende-steden-oekraine-opnieuw-stroomuitval",
-    "type": "article",
-    "title": "Raketaanvallen op verschillende steden Oekraïne, opnieuw stroomuitval",
-    "subtitle": null,
-    "published_at": "2022-12-16T09:43:50+01:00",
-    "updated_at": "2022-12-16T10:34:25+01:00",
-    "media_id": "xm8xhjdaiboj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6242491/raketaanvallen-op-verschillende-steden-oekraine-opnieuw-stroomuitval.html",
     "open_new_window": false,
     "partner": null
   }

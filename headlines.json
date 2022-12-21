@@ -1,5 +1,51 @@
 [
   {
+    "id": 6243494,
+    "slug": "sam-hagens-neemt-met-helene-hendriks-hlf8-presentatie-van-johnny-de-mol-over",
+    "type": "article",
+    "title": "Sam Hagens neemt met Hélène Hendriks HLF8-presentatie van Johnny de Mol over",
+    "subtitle": null,
+    "published_at": "2022-12-21T14:51:12+01:00",
+    "updated_at": "2022-12-21T14:51:13+01:00",
+    "media_id": "52cx15zatrew",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6243494/sam-hagens-neemt-met-helene-hendriks-hlf8-presentatie-van-johnny-de-mol-over.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243490,
+    "slug": "duitse-concurrentiewaakhond-staakt-onderzoek-naar-nieuwsdienst-van-google",
+    "type": "article",
+    "title": "Duitse concurrentiewaakhond staakt onderzoek naar nieuwsdienst van Google",
+    "subtitle": null,
+    "published_at": "2022-12-21T14:34:01+01:00",
+    "updated_at": "2022-12-21T14:35:55+01:00",
+    "media_id": "hgsxe5ravsnx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6243490/duitse-concurrentiewaakhond-staakt-onderzoek-naar-nieuwsdienst-van-google.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243487,
     "slug": "winkeliers-vrezen-voor-extreme-huurverhoging-vanaf-januari",
     "type": "article",
@@ -98,7 +144,7 @@
     "title": "Politie krijgt 50.000 euro boete voor cameraopnamen tijdens corona",
     "subtitle": null,
     "published_at": "2022-12-21T12:36:55+01:00",
-    "updated_at": "2022-12-21T14:11:34+01:00",
+    "updated_at": "2022-12-21T14:26:59+01:00",
     "media_id": "hupxjk9av8n4",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6243422/argentijnse-politie-schiet-met-rubberkogels-bij-rellen-na-wk-viering.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243411,
-    "slug": "glazen-huis-djs-voelen-zich-goed-maar-staan-wel-onder-toezicht-omdat-ze-vasten",
-    "type": "article",
-    "title": "Glazen Huis-dj's voelen zich goed, maar staan wel onder toezicht omdat ze vasten",
-    "subtitle": null,
-    "published_at": "2022-12-21T11:04:27+01:00",
-    "updated_at": "2022-12-21T11:04:28+01:00",
-    "media_id": "ds1xv6daebir",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6243411/glazen-huis-djs-voelen-zich-goed-maar-staan-wel-onder-toezicht-omdat-ze-vasten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243408,
-    "slug": "gasprijs-duikt-onder-de-100-euro-door-zachter-weer-en-eu-akkoord",
-    "type": "article",
-    "title": "Gasprijs duikt onder de 100 euro door zachter weer en EU-akkoord",
-    "subtitle": null,
-    "published_at": "2022-12-21T10:37:47+01:00",
-    "updated_at": "2022-12-21T13:45:40+01:00",
-    "media_id": "3frxet2af41j",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6243408/gasprijs-duikt-onder-de-100-euro-door-zachter-weer-en-eu-akkoord.html",
     "open_new_window": false,
     "partner": null
   }

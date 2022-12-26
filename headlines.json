@@ -1,5 +1,28 @@
 [
   {
+    "id": 6244286,
+    "slug": "vn-dringt-er-bij-taliban-op-aan-draai-inperkingen-vrouwenrechten-terug",
+    "type": "article",
+    "title": "VN dringt er bij Taliban op aan: draai inperkingen vrouwenrechten terug",
+    "subtitle": null,
+    "published_at": "2022-12-26T12:40:08+01:00",
+    "updated_at": "2022-12-26T12:44:07+01:00",
+    "media_id": "wg5xszpa30uk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6244286/vn-dringt-er-bij-taliban-op-aan-draai-inperkingen-vrouwenrechten-terug.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244279,
     "slug": "dit-vinden-jullie-van-de-vluchtelingen-in-oss-die-samenleven",
     "type": "article",
@@ -397,7 +420,7 @@
     "title": "All I Want for Christmas van Mariah Carey verbreekt Spotify-record",
     "subtitle": null,
     "published_at": "2022-12-26T08:41:53+01:00",
-    "updated_at": "2022-12-26T10:25:56+01:00",
+    "updated_at": "2022-12-26T12:49:31+01:00",
     "media_id": "4gkxqmjahqy6",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6244233/drie-kinderen-zwaargewond-bij-botsing-in-oss-inzittenden-andere-auto-opgepakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244234,
-    "slug": "ravage-na-dodelijke-frontale-botsing-in-rotterdam",
-    "type": "video",
-    "title": "Ravage na dodelijke frontale botsing in Rotterdam",
-    "subtitle": "Video",
-    "published_at": "2022-12-26T08:16:47+01:00",
-    "updated_at": "2022-12-26T08:16:48+01:00",
-    "media_id": "ne1xqqbawa21",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6244234/ravage-na-dodelijke-frontale-botsing-in-rotterdam.html",
     "open_new_window": false,
     "partner": null
   }

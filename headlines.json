@@ -1,5 +1,28 @@
 [
   {
+    "id": 6245989,
+    "slug": "skeletonster-bos-boekt-in-winterberg-eerste-wereldbekerzege-van-het-seizoen",
+    "type": "article",
+    "title": "Skeletonster Bos boekt in Winterberg eerste wereldbekerzege van het seizoen",
+    "subtitle": null,
+    "published_at": "2023-01-06T18:33:13+01:00",
+    "updated_at": "2023-01-06T18:33:14+01:00",
+    "media_id": "mz2xly3arbb9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6245989/skeletonster-bos-boekt-in-winterberg-eerste-wereldbekerzege-van-het-seizoen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245932,
     "slug": "hoe-herken-je-een-deepfake",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Italiaan Bosa verrast Scheperkamp, Verbij en Otterspeer bij start EK sprint",
     "subtitle": null,
     "published_at": "2023-01-06T18:28:31+01:00",
-    "updated_at": "2023-01-06T18:29:32+01:00",
+    "updated_at": "2023-01-06T18:34:32+01:00",
     "media_id": "b15xe0eapl0n",
     "duration": null,
     "canonical_section": {
@@ -98,8 +121,8 @@
     "title": "Kok verslaat Leerdam ook bij EK sprint op eerste 500 meter",
     "subtitle": null,
     "published_at": "2023-01-06T17:56:24+01:00",
-    "updated_at": "2023-01-06T18:14:09+01:00",
-    "media_id": "82fxjnpait5d",
+    "updated_at": "2023-01-06T18:38:59+01:00",
+    "media_id": "ix7xhdpaq404",
     "duration": null,
     "canonical_section": {
       "id": 1772452,
@@ -236,7 +259,7 @@
     "title": "Na 'goede evaluatie' grijpt Schreuder in bij Ajax: kleinere selectie en versterkingen",
     "subtitle": null,
     "published_at": "2023-01-06T16:56:52+01:00",
-    "updated_at": "2023-01-06T17:39:46+01:00",
+    "updated_at": "2023-01-06T18:48:07+01:00",
     "media_id": "flbxnrkaao7d",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Bemanning Nederlands vrachtschip redde vier mannen op Atlantische Oceaan",
     "subtitle": null,
     "published_at": "2023-01-06T16:05:13+01:00",
-    "updated_at": "2023-01-06T16:46:16+01:00",
+    "updated_at": "2023-01-06T18:37:58+01:00",
     "media_id": "nb1xijkaqr86",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Inflatie eurozone weer onder de 10 procent, Nederland nog steeds in kopgroep",
     "subtitle": null,
     "published_at": "2023-01-06T15:53:40+01:00",
-    "updated_at": "2023-01-06T15:53:42+01:00",
+    "updated_at": "2023-01-06T18:43:07+01:00",
     "media_id": "dhlxasva9lt6",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6245945/slot-raakt-niet-in-de-war-van-blessures-bij-feyenoord-kunnen-goed-team-inzetten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245947,
-    "slug": "schreuder-benadrukt-dat-hij-normale-band-had-met-vertrokken-ajax-icoon-blind",
-    "type": "article",
-    "title": "Schreuder benadrukt dat hij 'normale band' had met vertrokken Ajax-icoon Blind",
-    "subtitle": null,
-    "published_at": "2023-01-06T14:58:09+01:00",
-    "updated_at": "2023-01-06T17:15:06+01:00",
-    "media_id": "gjaxjaba5qh5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6245947/schreuder-benadrukt-dat-hij-normale-band-had-met-vertrokken-ajax-icoon-blind.html",
     "open_new_window": false,
     "partner": null
   }

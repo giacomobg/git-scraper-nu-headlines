@@ -1,12 +1,35 @@
 [
   {
+    "id": 6247272,
+    "slug": "monteurs-projectleiders-en-zorgpersoneel-zijn-nu-zeer-gewild",
+    "type": "article",
+    "title": "Monteurs, projectleiders en zorgpersoneel zijn nu zeer gewild",
+    "subtitle": null,
+    "published_at": "2023-01-17T08:16:18+01:00",
+    "updated_at": "2023-01-17T08:16:19+01:00",
+    "media_id": "q57xlelald7z",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6247272/monteurs-projectleiders-en-zorgpersoneel-zijn-nu-zeer-gewild.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247270,
     "slug": "meer-longkanker-in-nederlandse-wijken-waar-bewoners-lager-inkomen-hebben",
     "type": "article",
     "title": "Meer longkanker in Nederlandse wijken waar bewoners lager inkomen hebben",
     "subtitle": null,
     "published_at": "2023-01-17T07:41:58+01:00",
-    "updated_at": "2023-01-17T07:41:59+01:00",
+    "updated_at": "2023-01-17T08:12:42+01:00",
     "media_id": "mb4xqysa59yp",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Hartono net als vorig jaar direct uitgeschakeld op Australian Open",
     "subtitle": null,
     "published_at": "2023-01-17T07:09:42+01:00",
-    "updated_at": "2023-01-17T07:31:51+01:00",
+    "updated_at": "2023-01-17T08:00:54+01:00",
     "media_id": "ucixgs0a7q43",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Nieuwbouwwoningen zijn stuk minder in trek",
     "subtitle": null,
     "published_at": "2023-01-17T00:08:12+01:00",
-    "updated_at": "2023-01-17T00:08:13+01:00",
+    "updated_at": "2023-01-17T08:10:02+01:00",
     "media_id": "rpjxaf3as402",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6247252/me-draagt-klimaatactivisten-weg-bij-protestactie-amsterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247251,
-    "slug": "fc-eindhoven-dient-den-bosch-nieuwe-nederlaag-toe-en-herovert-derde-plek",
-    "type": "article",
-    "title": "FC Eindhoven dient Den Bosch nieuwe nederlaag toe en herovert derde plek",
-    "subtitle": null,
-    "published_at": "2023-01-16T22:06:41+01:00",
-    "updated_at": "2023-01-16T22:25:09+01:00",
-    "media_id": "tm6xas1awsls",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6247251/fc-eindhoven-dient-den-bosch-nieuwe-nederlaag-toe-en-herovert-derde-plek.html",
     "open_new_window": false,
     "partner": null
   }

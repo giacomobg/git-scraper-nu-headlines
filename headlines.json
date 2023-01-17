@@ -1,5 +1,28 @@
 [
   {
+    "id": 6247273,
+    "slug": "npo-schaft-hoge-boete-voor-schenden-van-geheimhoudingsplicht-af",
+    "type": "article",
+    "title": "NPO schaft hoge boete voor schenden van geheimhoudingsplicht af",
+    "subtitle": null,
+    "published_at": "2023-01-17T08:18:46+01:00",
+    "updated_at": "2023-01-17T08:18:47+01:00",
+    "media_id": "ulfxsk8aqq1z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6247273/npo-schaft-hoge-boete-voor-schenden-van-geheimhoudingsplicht-af.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247272,
     "slug": "monteurs-projectleiders-en-zorgpersoneel-zijn-nu-zeer-gewild",
     "type": "article",
@@ -121,7 +144,7 @@
     "title": "Kevin Spacey bedankt museum in eerste speech in jaren: 'Jullie hebben ballen'",
     "subtitle": null,
     "published_at": "2023-01-17T06:44:56+01:00",
-    "updated_at": "2023-01-17T07:22:44+01:00",
+    "updated_at": "2023-01-17T08:23:24+01:00",
     "media_id": "oi8xv44a0z2k",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6247254/veelbesproken-asielhotel-in-albergen-staat-nog-altijd-leeg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247252,
-    "slug": "me-draagt-klimaatactivisten-weg-bij-protestactie-amsterdam",
-    "type": "video",
-    "title": "ME draagt klimaatactivisten weg bij protestactie Amsterdam",
-    "subtitle": "Video",
-    "published_at": "2023-01-16T22:14:39+01:00",
-    "updated_at": "2023-01-16T22:26:20+01:00",
-    "media_id": "wwcxi8gasyae",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6247252/me-draagt-klimaatactivisten-weg-bij-protestactie-amsterdam.html",
     "open_new_window": false,
     "partner": null
   }

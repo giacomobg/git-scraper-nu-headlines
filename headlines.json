@@ -1,5 +1,28 @@
 [
   {
+    "id": 6247559,
+    "slug": "kim-kardashian-koopt-op-veiling-juweel-van-prinses-diana",
+    "type": "article",
+    "title": "Kim Kardashian koopt op veiling juweel van prinses Diana",
+    "subtitle": null,
+    "published_at": "2023-01-18T21:46:02+01:00",
+    "updated_at": "2023-01-18T21:48:40+01:00",
+    "media_id": "ujfxvpaaon7y",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6247559/kim-kardashian-koopt-op-veiling-juweel-van-prinses-diana.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247557,
     "slug": "feyenoord-supporter-draagt-kunstoog-met-logo-van-club",
     "type": "video",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6247555,
-    "slug": "rai-vloet-in-maart-voor-rechter-voor-fataal-auto-ongeluk-in-2021",
+    "slug": "rai-vloet-in-maart-voor-de-rechter-wegens-fataal-auto-ongeluk-in-2021",
     "type": "article",
-    "title": "Rai Vloet in maart voor rechter voor fataal auto-ongeluk in 2021",
+    "title": "Rai Vloet in maart voor de rechter wegens fataal auto-ongeluk in 2021",
     "subtitle": null,
     "published_at": "2023-01-18T21:28:08+01:00",
-    "updated_at": "2023-01-18T21:33:16+01:00",
+    "updated_at": "2023-01-18T21:42:24+01:00",
     "media_id": "1a3x8y4ar0bl",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6247555/rai-vloet-in-maart-voor-rechter-voor-fataal-auto-ongeluk-in-2021.html",
+    "url": "/voetbal/6247555/rai-vloet-in-maart-voor-de-rechter-wegens-fataal-auto-ongeluk-in-2021.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6247498/syrier-uit-arkel-verdacht-van-is-verleden-waterdicht-asielsysteem-kan-niet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247531,
-    "slug": "brit-beklimt-in-zwembroek-hoogste-berg-in-verenigd-koninkrijk",
-    "type": "video",
-    "title": "Brit beklimt in zwembroek hoogste berg in Verenigd Koninkrijk",
-    "subtitle": "Video",
-    "published_at": "2023-01-18T17:41:22+01:00",
-    "updated_at": "2023-01-18T17:41:23+01:00",
-    "media_id": "gm2xapua48ps",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6247531/brit-beklimt-in-zwembroek-hoogste-berg-in-verenigd-koninkrijk.html",
     "open_new_window": false,
     "partner": null
   }

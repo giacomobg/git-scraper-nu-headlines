@@ -1,5 +1,28 @@
 [
   {
+    "id": 6248132,
+    "slug": "yvonne-coldeweijer-moet-rectificatie-plaatsen-over-brief-rachel-hazes",
+    "type": "article",
+    "title": "Yvonne Coldeweijer moet rectificatie plaatsen over brief Rachel Hazes",
+    "subtitle": null,
+    "published_at": "2023-01-23T15:31:36+01:00",
+    "updated_at": "2023-01-23T15:31:40+01:00",
+    "media_id": "kkzxvnoa3j0x",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6248132/yvonne-coldeweijer-moet-rectificatie-plaatsen-over-brief-rachel-hazes.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248161,
     "slug": "google-ziet-komst-chatgpt-als-bedreiging-voor-eigen-toekomst",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Schiphol zoekt opnieuw extra personeel om lange wachtrijen te voorkomen",
     "subtitle": null,
     "published_at": "2023-01-23T15:09:59+01:00",
-    "updated_at": "2023-01-23T15:10:00+01:00",
+    "updated_at": "2023-01-23T15:27:36+01:00",
     "media_id": "nqkxqz6a7xdn",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/dieren/6248137/brandweer-redt-jong-hert-dat-vastzit-in-hek-in-schijndel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248131,
-    "slug": "15-jaar-cel-geeist-tegen-koppel-na-weerzinwekkend-misbruik-oppaskinderen",
-    "type": "article",
-    "title": "15 jaar cel geëist tegen koppel na 'weerzinwekkend' misbruik oppaskinderen",
-    "subtitle": null,
-    "published_at": "2023-01-23T11:29:13+01:00",
-    "updated_at": "2023-01-23T12:19:21+01:00",
-    "media_id": "fo6xlehau5we",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6248131/15-jaar-cel-geeist-tegen-koppel-na-weerzinwekkend-misbruik-oppaskinderen.html",
     "open_new_window": false,
     "partner": null
   }
